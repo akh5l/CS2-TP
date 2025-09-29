@@ -1,8 +1,9 @@
 # First-Time Setup: Cloning the Repo into VS Code
 
 ## 1. Install the Tools
-- Install php https://downloads.php.net/~windows/releases/archives/php-8.4.13-nts-Win32-vs17-x64.zip
-- Install npm https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe
+- Watch this tutorial and follow the instructions to install php https://www.youtube.com/watch?v=n04w2SzGr_U
+- Install nvm https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe
+- Open command prompt and run ```nvm install lts``` then follow the on-screen instructions
 - Install composer https://getcomposer.org/Composer-Setup.exe
 - Install VS Code https://code.visualstudio.com/download
 - In VS Code, install extension: **GitHub Pull Requests.** Launch VS Code Quick Open (`Ctrl+P`), paste the following command, and press enter.
