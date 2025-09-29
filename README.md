@@ -1,7 +1,8 @@
 # First-Time Setup: Cloning the Repo into VS Code
 
 ## 1. Install the Tools
-
+- Install php [https://downloads.php.net/~windows/releases/archives/php-8.4.13-nts-Win32-vs17-x64.zip] (https://downloads.php.net/~windows/releases/archives/php-8.4.13-nts-Win32-vs17-x64.zip "")
+- Install npm [https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe] (https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe "")
 - Install VS Code [https://code.visualstudio.com/download](https://code.visualstudio.com/download "‌")
 - In VS Code, install extension: **GitHub Pull Requests.** Launch VS Code Quick Open (`Ctrl+P`), paste the following command, and press enter.
 
@@ -42,9 +43,9 @@ npm install
 
 ## 5. Set Up Project
 
-1. Copy the example file:
+1. Copy the example .env file:
    ```
-   cp .env.example .env
+   copy .env.example .env
 
    ```
 2. Generate app key:
@@ -52,7 +53,12 @@ npm install
    php artisan key:generate
 
    ```
-3. Generate database migrations:
+3. Copy the sample database file:
+   ```
+   copy database/database.sqlite.example database/database.sqlite
+
+   ```
+4. Generate database migrations:
    ```
    php artisan migrate
 
