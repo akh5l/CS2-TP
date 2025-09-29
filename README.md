@@ -7,10 +7,6 @@
 - Install composer https://getcomposer.org/Composer-Setup.exe
 - Install VS Code https://code.visualstudio.com/download
 
-```
-ext install GitHub.vscode-pull-request-github
-```
-
 
 
 ## 2. Sign In to GitHub in VS Code
