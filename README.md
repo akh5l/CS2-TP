@@ -38,8 +38,9 @@ ext install GitHub.vscode-pull-request-github
 3. Open a terminal in VS Code (**View → Terminal**)
 4. In the terminal, run ```git config --global user.name YOUR_NAME``` making sure to replace YOUR_NAME with your github username
 5. Run ```git config --global user.email YOUR_EMAIL``` making sure to replace YOUR_EMAIL with the email your GitHub account uses
-6. Run ```composer install```
-7. Run ```npm install```
+6. In the same terminal, run ```php.ini``` and use ```Ctrl+F``` to find ```;extension=fileinfo``` and ```;extension=pdo_sqlite``` then delete the ; before both of these
+7. Run ```composer install```
+8. Run ```npm install```
 
 
 
@@ -57,7 +58,7 @@ ext install GitHub.vscode-pull-request-github
    ```
 3. Copy the sample database file:
    ```
-   copy database/database.sqlite.example database/database.sqlite
+   copy database\database.sqlite.example database\database.sqlite
 
    ```
 4. Generate database migrations:
