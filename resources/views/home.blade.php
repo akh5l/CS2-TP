@@ -12,7 +12,7 @@
             Your Laravel + Tailwind project is running successfully.
         </p>
         <a href="/" class="inline-block bg-gradient-to-r from-blue-500 to-indigo-500 text-white font-semibold py-2 px-5 rounded-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:from-indigo-500 hover:to-purple-500 animate-gradient">
-            Back to Home
+            Button
         </a>
         <style>
           @keyframes gradientShift {
