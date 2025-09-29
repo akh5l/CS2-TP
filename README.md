@@ -40,7 +40,7 @@ npm install
 
 
 
-## 5. Set Up Environment File
+## 5. Set Up Project
 
 1. Copy the example file:
    ```
@@ -52,12 +52,16 @@ npm install
    php artisan key:generate
 
    ```
+3. Generate database migrations:
+   ```
+   php artisan migrate
 
+   ```
 
 
 ## 6. Run the Project
 
-Two terminals needed (**View → Terminal or Ctrl+Alt+T**):
+Two terminals needed (**View → Terminal or Ctrl+Alt+T then Ctrl+Shift+5**):
 
 ```
 # Terminal 1 → run Laravel
