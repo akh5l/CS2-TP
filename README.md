@@ -6,7 +6,6 @@
 - Open command prompt and run ```nvm install lts``` then follow the on-screen instructions (don't forget to run ```nvm use 22.20.0``` or whatever number it says)
 - Install composer https://getcomposer.org/Composer-Setup.exe
 - Install VS Code https://code.visualstudio.com/download
-- In VS Code, install extension: **GitHub Pull Requests.** Launch VS Code Quick Open (`Ctrl+P`), paste the following command, and press enter.
 
 ```
 ext install GitHub.vscode-pull-request-github
