@@ -36,8 +36,8 @@ ext install GitHub.vscode-pull-request-github
 1. Go to VS Code settings and search ```powershell```
 2. Open the dropdown and select ```Command Prompt```
 3. Open a terminal in VS Code (**View → Terminal**)
-4. In the terminal, run ```git config --global user.name "YOUR_NAME"``` making sure to replace YOUR_NAME with your github username
-5. Run ```git config --global user.email "YOUR_EMAIL"``` making sure to replace YOUR_EMAIL with the email your GitHub account uses
+4. In the terminal, run ```git config --global user.name YOUR_NAME``` making sure to replace YOUR_NAME with your github username
+5. Run ```git config --global user.email YOUR_EMAIL``` making sure to replace YOUR_EMAIL with the email your GitHub account uses
 6. Run ```composer install```
 7. Run ```npm install```
 
