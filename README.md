@@ -10,11 +10,13 @@ ext install GitHub.vscode-pull-request-github
 ```
 
 
+
 ## 2. Sign In to GitHub in VS Code
 
 - Bottom-left corner, click **Accounts** → **Sign in with GitHub**
 - A browser opens → log in → allow access
 - Now VS Code is connected to GitHub
+
 
 
 ## 3. Clone the Project Repo
@@ -26,6 +28,7 @@ ext install GitHub.vscode-pull-request-github
 3. VS Code asks: _“Open cloned repo?”_ → Click **Yes**
 
 
+
 ## 4. Install Dependencies (Laravel project)
 
 Open a terminal in VS Code (**View → Terminal or Ctrl+Alt+T**) and run:
@@ -34,6 +37,7 @@ Open a terminal in VS Code (**View → Terminal or Ctrl+Alt+T**) and run:
 composer install
 npm install
 ```
+
 
 
 ## 5. Set Up Environment File
@@ -48,6 +52,7 @@ npm install
    php artisan key:generate
 
    ```
+
 
 
 ## 6. Run the Project
