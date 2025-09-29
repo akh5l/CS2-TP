@@ -11,7 +11,7 @@
         <p class="text-gray-600 mb-6">
             Your Laravel + Tailwind project is running successfully.
         </p>
-        <a href="/" class="inline-block bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg">
+        <a href="/" class="inline-block bg-gradient-to-r from-blue-500 to-indigo-500 hover:from-indigo-500 hover:to-purple-500 transition-all duration-300 text-white font-semibold py-2 px-4 rounded-lg shadow-md">
             Back to Home
         </a>
     </div>
