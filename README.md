@@ -34,7 +34,7 @@ ext install GitHub.vscode-pull-request-github
 
 ## 4. Install Dependencies (Laravel project)
 
-Open a terminal in VS Code (**View → Terminal or Ctrl+Alt+T**) and run:
+Open a terminal in VS Code (**View → Terminal**) and run:
 
 ```
 composer install
@@ -69,7 +69,7 @@ npm install
 
 ## 6. Run the Project
 
-Two terminals needed (**View → Terminal or Ctrl+Alt+T then Ctrl+Shift+5**):
+Two terminals needed (**View → Terminal then Ctrl+Shift+5**):
 
 ```
 # Terminal 1 → run Laravel
