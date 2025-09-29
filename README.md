@@ -3,7 +3,7 @@
 ## 1. Install the Tools
 - Watch this tutorial and follow the instructions to install php https://www.youtube.com/watch?v=n04w2SzGr_U
 - Install nvm https://github.com/coreybutler/nvm-windows/releases/download/1.2.2/nvm-setup.exe
-- Open command prompt and run ```nvm install lts``` then follow the on-screen instructions (don't forget to run nvm use 22.20.0 or whatever number it says)
+- Open command prompt and run ```nvm install lts``` then follow the on-screen instructions (don't forget to run ```nvm use 22.20.0``` or whatever number it says)
 - Install composer https://getcomposer.org/Composer-Setup.exe
 - Install VS Code https://code.visualstudio.com/download
 - In VS Code, install extension: **GitHub Pull Requests.** Launch VS Code Quick Open (`Ctrl+P`), paste the following command, and press enter.
