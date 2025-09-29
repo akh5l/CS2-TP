@@ -57,7 +57,7 @@ npm install
 
 ## 6. Run the Project
 
-Two terminals needed:
+Two terminals needed (**View → Terminal or Ctrl+Alt+T**):
 
 ```
 # Terminal 1 → run Laravel
