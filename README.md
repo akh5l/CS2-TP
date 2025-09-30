@@ -20,7 +20,7 @@
 ## 3. Clone the Project Repo
 
 1. Copy the repo link: [https://github.com/akh5l/CS2-TP.git](https://github.com/akh5l/CS2-TP.git "‌")
-2. In VS Code, open **Command Palette** (`Ctrl + Shift + P` / `Cmd + Shift + P`)
+2. In VS Code, open **Command Palette** (`Ctrl + Shift + P`)
    - Type **Git: Clone** → paste the repo link
    - Choose a folder on your computer (e.g., `Documents/CS-Project`)
 3. VS Code asks: _“Open cloned repo?”_ → Click **Yes**
