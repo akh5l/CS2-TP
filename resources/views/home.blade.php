@@ -23,7 +23,7 @@
 
           .animate-gradient {
             background-size: 200% 200%;
-            animation: gradientShift 5s ease infinite;
+            animation: gradientShift 2s ease infinite;
           }
         </style>
     </div>
